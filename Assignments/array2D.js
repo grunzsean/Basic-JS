@@ -16,3 +16,4 @@ function highNum (arr){
     return console.log(`The highest number from the given 2D array is ${high}`);
 }
 highNum(input);
+
