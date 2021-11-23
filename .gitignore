@@ -1,0 +1,9 @@
+#Ignore the modules directory
+node_modules/
+
+
+#ignore the IDE specific files
+.idea/ 
+.vscode/
+*.sw*
+
